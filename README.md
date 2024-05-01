@@ -71,6 +71,28 @@ Hey, Netology
 
 ### Решение 3
 
+2. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-01.png)
+
+3. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-02.png)
+
+Сначала подключился к стандартному потоку ввода/вывода/ошибок контейнера "custom-nginx-t2" командой docker attach custom-nginx-t2. Затем была введена мной команда Ctrl-C. Контейтер воспринял это как signal 2 - остановка контейнера.
+
+4. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-03.png)
+
+5. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-04.png)
+
+6. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-05.png)
+
+7. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-06.png)
+
+8-9. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-07.png)
+
+10. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-08.png)
+
+Был поменян порт у nginx с 80 на 81. А до этого был проброс порта с 80 на 8080. И поэтому по порту 8080 сервер nginx не отзывается.
+
+12. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-03-09.png)
+
 ## Задача 4
 
 
@@ -84,6 +106,20 @@ Hey, Netology
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
 ### Решение 4
+
+1. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-04-01.png)
+
+2. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-04-02.png)
+
+3. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-04-03.png)
+
+   ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-04-04.png)
+
+   ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-04-05.png)
+
+4. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-04-06.png)
+
+5. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-04-07.png)
 
 ## Задача 5
 
@@ -133,6 +169,10 @@ services:
 7. Удалите любой из манифестов компоуза(например compose.yaml).  Выполните команду "docker compose up -d". Прочитайте warning, объясните суть предупреждения и выполните предложенное действие. Погасите compose-проект ОДНОЙ(обязательно!!) командой.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
+
+### Решение 5
+
+1. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-01.png)
 
 ---
 
