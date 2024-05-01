@@ -174,6 +174,30 @@ services:
 
 1. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-01.png)
 
+Был запущен файл compose.yaml. Потому что имя файла докер обрабатывает в приоритете - by designe.
+
+2. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-02.png)
+
+![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-03.png)
+
+3. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-04.png)
+
+![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-05.png)
+
+4. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-06.png)
+
+5. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-07.png)
+
+6. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-08.png)
+
+7. ![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-09.png)
+
+Предупреждение, что версия файла устарела. Содержимое файла не соотвествует запущенным сервисам.
+
+![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-10.png)
+
+![alt text](https://github.com/artmur1/16-04-hw/blob/main/16-04-05-11.png)
+
 ---
 
 ### Правила приема
